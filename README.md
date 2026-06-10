@@ -2,11 +2,11 @@
 
 # Alexis Guinot
 
-### Développeur logiciel junior
+### Développeur informatique junior
 
-#### Java • Spring Boot • JavaFX • PostgreSQL • Linux
+#### Java • Backend • Desktop • PostgreSQL • Linux
 
-Je recherche une **alternance en développement informatique** orientée développement logiciel, backend Java ou applications métier.
+Je recherche une **alternance en développement informatique** orientée développement logiciel, backend Java, applications métier ou outils internes.
 
 <p>
   <a href="https://www.linkedin.com/in/alexis-guinot/">
@@ -18,10 +18,10 @@ Je recherche une **alternance en développement informatique** orientée dévelo
 </p>
 
 <p>
-  <img src="https://img.shields.io/badge/Java-25-orange?style=flat-square&logo=openjdk&logoColor=white" alt="Java 25" />
-  <img src="https://img.shields.io/badge/Spring%20Boot-4-6DB33F?style=flat-square&logo=springboot&logoColor=white" alt="Spring Boot 4" />
+  <img src="https://img.shields.io/badge/Java-Primary-orange?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/Spring%20Boot-Backend-6DB33F?style=flat-square&logo=springboot&logoColor=white" alt="Spring Boot" />
   <img src="https://img.shields.io/badge/JavaFX-Desktop-blue?style=flat-square" alt="JavaFX" />
-  <img src="https://img.shields.io/badge/PostgreSQL-SQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/PostgreSQL-Database-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
   <img src="https://img.shields.io/badge/Linux-Environment-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux" />
 </p>
 
@@ -31,47 +31,74 @@ Je recherche une **alternance en développement informatique** orientée dévelo
 
 ## Profil
 
-Développeur informatique junior, titulaire d’un niveau **Bac+2**, je construis principalement des applications Java structurées avec backend REST, interface desktop, base de données relationnelle et architecture modulaire.
+Développeur informatique junior, titulaire d’un **BTS développeur informatique en alternance**, avec une expérience en développement logiciel, électronique, projets personnels complexes et entrepreneuriat.
 
-Mon objectif est de rejoindre une entreprise en alternance afin de progresser sur des projets réels, maintenables et utiles, avec une montée en compétence solide sur le développement logiciel.
+Je construis principalement des applications structurées autour de Java, du backend, des bases de données relationnelles, des interfaces desktop et de l’outillage développeur.
 
 > [!IMPORTANT]
-> Recherche actuelle : **alternance en développement informatique**, idéalement sur des sujets Java, backend, fullstack, applications métier ou outils internes.
+> Recherche actuelle : **alternance en développement informatique** pour continuer à progresser sur des projets concrets, maintenables et utiles.
 
 ---
 
-## Stack technique
+## Ce que je peux apporter
 
 <table>
   <tr>
-    <th>Domaine</th>
-    <th>Technologies</th>
+    <th>Compétence</th>
+    <th>Application concrète</th>
   </tr>
   <tr>
-    <td><strong>Langages</strong></td>
-    <td>Java, SQL, C++, PHP, GLSL</td>
+    <td><strong>Développement Java</strong></td>
+    <td>Applications desktop, backend, architecture modulaire, projets complets</td>
   </tr>
   <tr>
     <td><strong>Backend</strong></td>
-    <td>Spring Boot, API REST, validation, architecture modulaire</td>
+    <td>API REST, logique métier, persistance, validation, structuration de services</td>
   </tr>
   <tr>
-    <td><strong>Données</strong></td>
-    <td>PostgreSQL, Flyway, Spring JDBC</td>
+    <td><strong>Base de données</strong></td>
+    <td>SQL, PostgreSQL, migrations, modélisation de données</td>
   </tr>
   <tr>
-    <td><strong>Desktop</strong></td>
-    <td>JavaFX, AtlantaFX</td>
+    <td><strong>Interface utilisateur</strong></td>
+    <td>JavaFX, écrans métier, ergonomie, affichage de données</td>
   </tr>
   <tr>
-    <td><strong>Graphique / bas niveau</strong></td>
-    <td>LWJGL, GLFW, OpenGL, OpenAL, Vulkan</td>
+    <td><strong>Culture système</strong></td>
+    <td>Linux, scripts, Git, Maven, Docker Compose, environnement de développement</td>
   </tr>
   <tr>
-    <td><strong>Outils</strong></td>
-    <td>Git, GitHub, Maven, Docker Compose, Linux, IntelliJ IDEA</td>
+    <td><strong>Projets techniques</strong></td>
+    <td>Moteur 2D/3D, modding, IA locale, outils de productivité, électronique</td>
   </tr>
 </table>
+
+---
+
+## Stack principale
+
+<p>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" alt="Spring Boot" />
+  <img src="https://img.shields.io/badge/JavaFX-5382A1?style=flat-square" alt="JavaFX" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=apachemaven&logoColor=white" alt="Maven" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux" />
+</p>
+
+### Technologies déjà pratiquées
+
+| Domaine                | Technologies                                            |
+| ---------------------- | ------------------------------------------------------- |
+| Langages               | Java, SQL, C++, PHP, Python, Bash, PowerShell           |
+| Backend                | Spring Boot, REST API, FastAPI, Flask                   |
+| Données                | PostgreSQL, SQL, Redis                                  |
+| Desktop / UI           | JavaFX, Swing, WPF                                      |
+| Web                    | HTML, CSS, JavaScript, TypeScript, React, Astro, Svelte |
+| DevOps / outils        | Git, Maven, Gradle, Docker, CI/CD, SSH                  |
+| Graphique / bas niveau | LWJGL, OpenGL, Vulkan, GLSL                             |
+| IA locale              | Llama.cpp, Ollama, LM Studio, Hugging Face              |
 
 ---
 
@@ -85,19 +112,8 @@ Solvia permet de suivre des comptes, actifs, positions, snapshots, flux financie
 
 <p>
   <a href="https://github.com/alescis-wuin/Solvia">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=alescis-wuin&repo=Solvia&theme=transparent" alt="Solvia repository card" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=alescis-wuin&repo=Solvia&theme=transparent&hide_border=true" alt="Solvia repository card" />
   </a>
-</p>
-
-#### Stack
-
-<p>
-  <img src="https://img.shields.io/badge/Java-25-orange?style=flat-square&logo=openjdk&logoColor=white" alt="Java 25" />
-  <img src="https://img.shields.io/badge/Spring%20Boot-4-6DB33F?style=flat-square&logo=springboot&logoColor=white" alt="Spring Boot 4" />
-  <img src="https://img.shields.io/badge/JavaFX-Desktop-blue?style=flat-square" alt="JavaFX" />
-  <img src="https://img.shields.io/badge/PostgreSQL-Database-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/Flyway-Migrations-CC0200?style=flat-square&logo=flyway&logoColor=white" alt="Flyway" />
-  <img src="https://img.shields.io/badge/Maven-Multi--module-C71A36?style=flat-square&logo=apachemaven&logoColor=white" alt="Maven" />
 </p>
 
 #### Ce que ce projet démontre
@@ -105,9 +121,9 @@ Solvia permet de suivre des comptes, actifs, positions, snapshots, flux financie
 * conception d’une application Java complète ;
 * séparation backend / desktop / domaine / persistance ;
 * création d’une API REST ;
-* utilisation de PostgreSQL et migrations Flyway ;
+* persistance SQL ;
 * architecture Maven multi-module ;
-* scripts de lancement ;
+* interface desktop JavaFX ;
 * documentation technique ;
 * logique métier orientée fiabilité des calculs.
 
@@ -115,78 +131,111 @@ Solvia permet de suivre des comptes, actifs, positions, snapshots, flux financie
 
 ```mermaid
 flowchart LR
-    UI[Desktop JavaFX] --> API[Backend REST Spring Boot]
-    API --> APP[Application services]
-    APP --> DOMAIN[Domain model]
-    APP --> PERSISTENCE[Persistence adapters]
-    PERSISTENCE --> DB[(PostgreSQL)]
+    UI[Desktop JavaFX] --> API[Backend REST]
+    API --> SERVICES[Services applicatifs]
+    SERVICES --> DOMAIN[Modèle métier]
+    SERVICES --> DB[(PostgreSQL)]
 ```
 
 Repository : [alescis-wuin/Solvia](https://github.com/alescis-wuin/Solvia)
 
 ---
 
-## Autre projet notable
+## Autres projets
 
-### Onsiea Engine
+### Moteur 2D/3D Java avec LWJGL
 
-Moteur 2D/3D expérimental développé en Java avec LWJGL.
+Projet personnel autour d’un moteur et d’éditeurs de jeu vidéo 2D/3D en Java.
 
-Stack utilisée :
+Compétences mobilisées :
 
 * Java ;
 * LWJGL ;
-* GLFW ;
 * OpenGL ;
-* OpenAL ;
-* GLSL ;
-* expérimentation Vulkan.
-
-Ce projet m’a permis de travailler sur la structuration d’un moteur graphique, la gestion de fenêtre, le rendu, les ressources graphiques et audio, ainsi que la séparation entre moteur, client et logique applicative.
-
-Repository : [alescis-wuin/Onsiea](https://github.com/alescis-wuin/Onsiea)
+* gestion de fenêtre ;
+* rendu graphique ;
+* structuration moteur / client / éditeur ;
+* logique de ressources graphiques.
 
 ---
 
-## Ce que je cherche à démontrer
+### Projets de modding et outils de jeu
 
-| Compétence              | Exemple concret                                               |
-| ----------------------- | ------------------------------------------------------------- |
-| Développement Java      | Solvia, backend Spring Boot, desktop JavaFX                   |
-| Architecture logicielle | Séparation domaine / application / infrastructure / interface |
-| Base de données         | PostgreSQL, migrations Flyway, accès SQL                      |
-| Interface utilisateur   | JavaFX, AtlantaFX, écrans métier                              |
-| Autonomie technique     | Projets complets, documentation, scripts                      |
-| Curiosité technique     | LWJGL, OpenGL, Vulkan, Linux                                  |
+Participation à des projets de modding et d’outillage autour du jeu vidéo, notamment avec du C++, Python, systèmes de scripts, lanceurs et frameworks.
+
+Ce type de projet m’a permis de travailler sur :
+
+* la compréhension de code existant ;
+* la compatibilité avec des systèmes complexes ;
+* la collaboration technique ;
+* la maintenance d’outils utilisés par une communauté.
+
+---
+
+### Plateforme de productivité boostée à l’IA
+
+Projet personnel autour de la productivité et de l’IA locale.
+
+Axes techniques :
+
+* agents et assistants locaux ;
+* intégration d’outils IA ;
+* automatisation ;
+* interfaces utilisateur ;
+* structuration de workflows.
+
+---
+
+## Expérience et parcours
+
+| Période     | Expérience                                                                                              |
+| ----------- | ------------------------------------------------------------------------------------------------------- |
+| 2023 – 2025 | Alternance développeur informatique et électronicien chez Familink                                      |
+| 2023        | BTS en alternance — développeur informatique                                                            |
+| 2025        | Statut national d’étudiant entrepreneur                                                                 |
+| 2025        | Certification entrepreneur CCI                                                                          |
+| 2021        | Bac scientifique : mathématiques, sciences de l’ingénieur, physique-chimie, NSI, mathématiques expertes |
+
+---
+
+## Engagements et projets portés
+
+Je m’intéresse aux projets techniques ayant un impact concret.
+
+* Bénévolat et adhésion chez Handisup ;
+* participation à des projets liés à l’inclusion des personnes en situation de handicap ;
+* projet Cap’Able autour de l’inclusion et de l’accessibilité ;
+* réflexion autour de solutions de confiance pour les collaborations professionnelles, notamment via les smart contracts.
 
 ---
 
 <details>
-<summary><strong>Statistiques GitHub</strong></summary>
+<summary><strong>Axes de progression technique</strong></summary>
 
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=alescis-wuin&show_icons=true&theme=transparent&hide_border=true" alt="GitHub stats" />
-</p>
+Je cherche actuellement à renforcer :
 
-<p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alescis-wuin&layout=compact&theme=transparent&hide_border=true" alt="Top languages" />
-</p>
+* les tests automatisés ;
+* la conception backend ;
+* les architectures applicatives propres ;
+* la documentation technique ;
+* la qualité d’interface ;
+* l’intégration continue ;
+* les pratiques d’équipe en contexte professionnel.
 
 </details>
 
 ---
 
 <details>
-<summary><strong>Axes de progression</strong></summary>
+<summary><strong>Centres d’intérêt techniques</strong></summary>
 
-Je cherche actuellement à renforcer :
-
-* les tests automatisés ;
-* la qualité d’interface ;
-* la conception backend ;
-* la documentation projet ;
-* la CI GitHub Actions ;
-* les pratiques de code maintenable en contexte professionnel.
+* développement logiciel ;
+* électronique ;
+* IA locale ;
+* outils développeur ;
+* systèmes Linux ;
+* moteurs graphiques ;
+* botanique et sciences appliquées.
 
 </details>
 
@@ -199,8 +248,8 @@ Je cherche actuellement à renforcer :
 
 <!--
 TODO:
-- Ajouter une capture de Solvia dans assets/solvia-preview.png
-- Ajouter un CV français si souhaité
+- Ajouter une capture propre de Solvia dans assets/solvia-preview.png
+- Ajouter un lien vers un CV français public si souhaité
 - Épingler Solvia en premier sur le profil GitHub
-- Ajouter topics + description à Solvia
+- Ajouter description + topics aux dépôts principaux
 -->
