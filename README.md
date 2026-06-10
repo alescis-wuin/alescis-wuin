@@ -4,7 +4,7 @@
 
 ### Développeur informatique junior
 
-#### Java • Backend • Desktop • PostgreSQL • Linux
+#### Java, backend, desktop et projets techniques complets.
 
 Je recherche une **alternance en développement informatique** orientée développement logiciel, backend Java, applications métier ou outils internes.
 
